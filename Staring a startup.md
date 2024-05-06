@@ -31,3 +31,8 @@
 - Great but simple products win.
 - Get people manually, the goal is to get a small group of them to love you.
 - Show it to users -> User feedback: What do they like? What do they pay for? What would make them recommend it? -> Product decision. This feedback loop should be as tight as possible. 
+- Metrics (focus on growth):- Total registrations, active users, activity levels, cohort retention, revenue, net promotor score etc.
+## Why start a startup?
+- It is actually stressful. Responsibility: Your team bet the best years of their life on you, you are always on call, fundraising, unwanted media attention.
+- 3 years figuring out if it will work out or not. If its a bad idea luckily, it will fail. But that's not always the case, you try another 2 years and its a total waste of time and money. It will leave a black mark in your career. But if the startup does good for ten years, then its great.
+- Being the CEO of a company:- You are not actually the boss, everyone else is- all your employees, customers, partners, users, media. You are accountable for many people. 
