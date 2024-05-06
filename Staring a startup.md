@@ -35,4 +35,21 @@
 ## Why start a startup?
 - It is actually stressful. Responsibility: Your team bet the best years of their life on you, you are always on call, fundraising, unwanted media attention.
 - 3 years figuring out if it will work out or not. If its a bad idea luckily, it will fail. But that's not always the case, you try another 2 years and its a total waste of time and money. It will leave a black mark in your career. But if the startup does good for ten years, then its great.
-- Being the CEO of a company:- You are not actually the boss, everyone else is- all your employees, customers, partners, users, media. You are accountable for many people. 
+- Being the CEO of a company:- You are not actually the boss, everyone else is- all your employees, customers, partners, users, media. You are accountable for many people. Life of a CEO is all about reporting to everyone else. There is no such thing as power here.
+- Flexibility: You will get some flex time. You'll be able to work any 24 hours a day you want! You're always on call, you're a role model, you're always working anyway.
+## Maximising impact
+- Adding a late stage feature to an established company means you get a force multiplier from: 1) Massive user base 2) Existing infrastructure 3) Working with an established team. Example: Employee #1500 @google created the google maps.
+## Best Reason
+### Passion: You NEED to do it
+- You'll need passion to endure the struggle
+- You'll need passion to effectively recruit
+### Aptitude: The world needs you to do it
+- The world needs IT or do something that the world needs
+- The world needs YOU: Its bad for the world if you just outcompete a team with more aptitude. The world needs you somewhere - find out where.
+# Recommended Reading
+- The hard thing about hard things
+- Zero To One
+- The Facebook effect
+- The 15 commitments of Conscious Leadership
+- The Tao of Leadership
+- Nonviolent Communication 
