@@ -53,3 +53,28 @@
 - The 15 commitments of Conscious Leadership
 - The Tao of Leadership
 - Nonviolent Communication 
+
+# 3) TEAM 
+- Co-founders:- Don't hire someone whom you didn't share a long history with. Within a year or two, the team will tear apart. Best way to meet them is in college. Else working in a good company is a way to go. They have to be tough, need to act quick, decisive and they know what to do in every situation. In other words, relentlesly resourceful.
+- Try not to hire though. People at start ask how many employees do you have and they use this as a metric. You should be proud of what you can do with a small team. Stay small as long as you can.
+- The ones you hire should believe in what you believe. They need to be extremely dedicated. For example, first 40-50 employees should feel like they were a part of the founding of the company. Having extremely high bar and hiring slowly helps.
+- Mediocre engineers do not build great companies. Don't screw it up in the early days.
+- Personal referals are one of the keys to hiring.
+- Experience doesn't matter in some areas in the early days and so aptitude and belief is the way to go.
+- Are they smart? Do they get things done? Do I want to spend a lot of time around them?
+- Work together on a project rather than doing an interview. But if you are doing an interview, you should ask them about the projects they have done in the past.
+- Good communication skills, manically determined, pass the animal test (desribe each employee as an animal in the work they do, they need to be very good at getting things done) , have risk taking ability.
+- 10% of company to the first 10 employees. For some reason founders are very stingy with equity to employees and very generous with equity to investors. But your employees are the ones who add more value. Fight against the equity that the investors get. They should get little as possible.
+- You have hired - now keep them around. Make sure your employees are happy and feel valued.
+- Let the team get credit for all the good things that happen and you take responsibility for the bad stuff that happens.
+- Continually give people new areas of responsibility. Purpose, autonomy and mastery.
+- One on ones and give clear feedback
+- Fire fast:- People who create office politics and the ones who are persistently negative. Might be OK in a big company but will kill a startup.
+- When should cofounders act on equity split? From the first few weeks itself.
+- Inexperience is okay, but what if its not? The person should be able to learn fast. People who are smart will eventually find a role in a company as time goes on.
+- What if your relationship with your cofounder falls apart? First thing in the early days itself, you need to have vesting on the equity. You pre-negotiate what happens when if one of you leaves. Don't have a dead weight on equity table. Its hard to get investors on board when that happens.
+- Choosing between hiring a suboptimal employee and loosing a customer: Its better to lose a customer than to kill the company in the early days.
+- Cofounders at different locations: Don't do it. Speed and communication outweigh everything else.
+
+# 4) EXECUTION
+- 
