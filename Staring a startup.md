@@ -77,4 +77,21 @@
 - Cofounders at different locations: Don't do it. Speed and communication outweigh everything else.
 
 # 4) EXECUTION
-- 
+- Everything in a startup gets modeled after the founders. Whatever the founders do becomes the culture. You gotta execute well yourself first.
+- CEO has five jobs: Set the vision, raise money, evangelize, hire and manage, make sure the entire company executes.
+- Firgure out what to do and can you get it done? These are the two parts.
+## Focus 
+- What are you spending your time and money on? What are the two or three most important things?
+- Say NO a lot! Set overarching goals. Repeat them. Most startups are not focused enough. They may be working hard but not on the right things.
+- Maintain growth and momentum. Work together in person. Even a slight miscommunication is enough for a small team to work on slightly different things.
+## Intensity:- 
+- Requires extreme focus and dedication. Startups are not the way for work life balance.
+- Outworking your competitors by a little bit is enough to be successful, even if its 1% extra.
+- Relentless operating rhythm. Obsession with execution quality. Bias towards action.
+- Best founders work on the thing that seem small and get it done quickly. Everytime you talk to them, they have gotten new things done.
+- Quick, do whatever it takes, show up, don't give up, be courageous.
+- When there is momentum sag, try to get small wins. Sales fix everything! Also many will start disagreeing with what to do.
+## Set an operating rhythm
+- Shipping product, launching new feature, reviewing/ reporting metrics and milestones.
+- Don't worry about a competitor at all.
+- "The competitor to be feared is the one who never bothers about you at all, but goes on making his own business better all the time. These are almost never the companies that put out press releases.
