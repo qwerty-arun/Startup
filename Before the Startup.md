@@ -19,4 +19,8 @@
 -   What was special about Brain Chesky and Joe Gebbia from Airbnb was not that they were experts in technology. They went to art school, they were experts in design. Perhaps more importantly they were really good at organizing people in getting projects done. So you don't have to work on technology per se, so long as you work on things that stretch you.
 -   One guaranteed way to turn your mind into the type to start up ideas for them unconsciously. Is to get yourself to the leading edge of some technology.
 -   "Live in the future." And when you get there, ideas that seem uncannily prescient to other people will seem obvious to you. You may not realize they're start up ideas, but you will know they are something that ought to exist.
--    
+-    Should you start at any age? You can't tell. Meaning starting a startup will change you a lot if it works out. So what you’re trying to estimate is not just what you are, but what you could become.
+-    So if you are starting a startup one day, what should you do in college? Well initially, idea and co-founders.
+## How can a nontechnical founder most efficiently contribute to a startup? 
+- If the startup is working in some domain, if it’s not a pure technology startup but is working in some very specific domain, like if it is Uber and the non technical founder was an expert in the limo business then actually then the non technical founder would be doing most of the work.
+- Honestly the best way to learn on how to start a startup is just to just try to start it. You may not be successful, but you'll learn much faster.
