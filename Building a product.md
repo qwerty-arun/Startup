@@ -1,0 +1,69 @@
+## Pre-requisite:- Have a lot of time in your hand.
+# The NOOB approach:
+- Build product in secret
+- exclusive press launch!
+- wait for users
+- buy users
+- give up
+# Problem:
+- What is it?
+- How does it relate to you?
+- Verify that others have it.
+# How to start?
+- The mistake of building a product for a problem the founders were not passionate about.
+- The speaker advises to think about the problem and validate it before investing time in building a product.
+- To start solving a problem in an industry, immerse yourself in that industry, learn the details, and exploit inefficiencies.
+- Become a cog in the industry to gain insights and exploit inefficiencies.
+- Learn from professionals and get hands-on experience in the industry. Be obsessively knowledgeable about the industry and its competitors.
+- Establish yourself as an expert in the industry to gain trust.
+- Identify and focus on specific customer segments to optimize for their needs.
+- Storyboard the ideal user experience before creating the product.
+# What is v1?
+- The process of building a minimum viable product (MVP) and acquiring initial users. Building an MVP involves identifying the smallest feature set to solve the problem at hand and talking to potential users for feedback
+- Having a clear and concise product positioning is important to attract users
+- Initial users can be friends, family, and local communities, as well as online platforms like Hacker News
+- Homejoy used street fairs to approach potential users and convince them to book a cleaning service
+- The founder discusses the early stages of Homejoy, including how they attracted users and gathered feedback.
+- They guilt-tripped people into booking cleanings by handing out free bottles of cold water. They found that most people who booked cleanings did not cancel afterwards.
+- To gather feedback, they provided a way for users to contact them and went out to meet users in person.
+- They emphasized the importance of making users feel comfortable and having a conversation rather than interrogating them.
+- Tracking customer retention and collecting reviews and ratings were key metrics they used to assess their progress.
+- They cautioned about the honesty curve and the need to account for people who may lie in feedback.
+- The importance of user feedback and optimizing for growth stages.
+- User feedback is valuable, with honest feedback coming from friends and paying users.
+- Paid users provide the best feedback as they have invested money in the product.
+- Optimize features for the current stage of growth, not future stages.
+- Manual processes and data collection are important before automating.
+- Temporary brokenness is better than permanent paralysis, focus on the core user.
+- Avoid the Frankenstein approach and build for future edge cases.
+- When building a product, it is important to listen to user feedback, but also understand the underlying problem they are trying to solve before implementing features. Launching a product early is crucial to gather user feedback and iterate on growth strategies.
+- Understand the reason behind user feature requests before building them.
+- Launching a product early allows for gathering user feedback and iterating on growth strategies.
+- Focus on one growth channel at a time and iterate on it.
+- Continuously optimize and iterate on successful growth channels.
+- Revisit failed channels in the future as circumstances may change.
+- Creativity is key in finding unique and effective growth strategies.
+- There are three types of growth: sticky, viral, and paid. Sticky growth focuses on getting existing users to use the product more, viral growth relies on users spreading the word about the product, and paid growth involves using money to buy growth.
+- Sticky growth aims to increase usage and revenue from existing users by delivering a good and addictive user experience.
+- Viral growth depends on users sharing and recommending the product to others, so delivering a remarkable experience is crucial.
+- Paid growth involves using financial resources to acquire new users and drive growth.
+- Sustainable growth means ensuring that the money and time invested in the product yield a good return on investment.
+- Cohort analysis and customer lifetime value (CLV) are used to measure sticky growth and retention over time.
+- To achieve viral growth, a good experience must be combined with a well-designed referral program.
+- The importance of customer touch points, program mechanics, and paid growth in referral programs. Understanding CLV and CAC for sustainable growth.
+- Customer touch points include after sign up and after product usage.
+- Different program mechanics can be tested, such as $10 for $10 or 25 for 25.
+- Optimizing the conversion flow when friends click on referral links.
+- Paid growth involves spending money to acquire users, with the goal of CLV exceeding CAC.
+- Consider CLV and CAC for different customer segments to determine ad effectiveness.
+- Sustainability is important to avoid spending beyond means and potential unsustainable growth.
+- Pivoting is important when growth is stagnant or the business economics don't make sense.
+- Payback time is important, with 3 months being safe and beyond 12 months being unsafe.
+- The art of pivoting involves looking at criteria such as growth, user retention, and business economics.
+- To pivot, have a growth plan and consider a pivot if there is no growth for three consecutive weeks.
+- To get users to switch to a new product, find moments where your product is better or differentiated from existing solutions.
+- It is difficult to convince users to switch to a new product with many benefits, so it is better to have one or two clear differentiating features.
+- Many people find it hard to switch to a new product with multiple benefits.
+- Even if the benefits outweigh the switch-over costs, it is still difficult to convince users.
+- Aggregating all the benefits over many little things is challenging.
+- It is better to have one or two clear differentiating features
