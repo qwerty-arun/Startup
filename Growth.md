@@ -1,0 +1,12 @@
+# WHAT MATTERS MOST?
+- Retention curve asymtotes to x-axis, it means you have a viable business.
+- Retention comes from having a great idea, and a great product to back up that idea and great product idea product fit. Is the single most important thing for growth.
+- Every company thinking about growth needs to have a north star (where you are heading), and while you are operating for growth, it is important that you define it as a leader.
+- Focus on gross merchandise volume and the magic moment (people hooked to your website) to drive growth like ebay did. They didn't use revenue as metric nor did they consider no of people listing on their website.
+- What do you think the magic moment is for when you’re signing up to Facebook? See your friends. Its as simple as that. So many companies try to get incredibly complicated about what they’re doing, but it is just as simple as when you see the first picture of one of your friends on Facebook, you go ‘Oh my God, this is what this site is about!
+- When you think about Airbnb or eBay, it’s about finding that unique item, that PEZ dispenser or broken laser pointer, that you really really cared about and want to get ahold of. Like when you see that collectible that you are missing, that is the real magic moment on eBay. When you look on Airbnb and you find that first listing, that cool house you can stay in, and when you go through the door, that’s a magic moment.
+- Think about what the magic moment is for your product, and get people connected to it as fast as possible.
+- Building an incredible product is definitely optimizing it for the people who use your product the most, but when it comes to driving growth, people who are already using your product are not the ones you have to worry about.
+- So for operating for growth, what you really need to think about, is what is the North star of your company: What is that one metric, where if everyone in your company is thinking about it and driving their product towards that metric and their actions towards moving that metric up.
+- Just have a North Star, and know the magic moment that you know when a user experiences that, they will deliver on that metric for you on the North Star, and then think about the marginal user, don’t think about yourself. Those are, I think, the most important points when operating for growth.
+- Internationalization and focusing on the right languages drove Facebook's growth but the problem was they did it too late. 
