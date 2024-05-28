@@ -1,0 +1,14 @@
+- Growth is fairly simple. It's the interaction between two concepts or variables: conversion rate and churn. The gap between those two things pretty much indicates how fast you're going to grow.
+- The best way to get to $1 billion is to focus on the values that help you get that first dollar to acquire that first user. If you get that right, everything else will take care of itself.
+- Wufoo, raised about $118,000 total, and our return to our investors was about 29,561%.
+- “How do relationships work in the real world and how can we apply them to the way we run our business and build our product that way?”. Two metaphors: acquiring new users as if we are trying to date them, and existing users as if they are a successful marriage.
+- When it comes to dating it's all about the first impressions! In software, it is all about homepages, landing pages, plans or pricing, login and signup. Then comes, first email, account creation, blank/starting interface, login link, ad link, support link.
+- Most companies get founded, especially by technical cofounders. Before launch, it is a time of bliss, Nirvana, and opportunity. Nothing that you do is wrong. By your hand, which you feel is like God, every line you write and every code you write feels perfect. But after launch, when reality hits, you gotta deal with a lot of crap. Cofounders try to get back to their initial state and make other people do it.
+- How do you inject values like responsibility, accountability, humility and modesty? Its called SDD (Support Driven Development). You actually end up fixing the feedback loop. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
+- John Gottman talks about the reason that we often break up with one another is due to four major causes. They are warning signs. He calls them the Four Horsemen: criticism, contempt, defensiveness, stonewalling.
+- Criticism is basically people starting to focus, not just on the specific issue at hand, but on the over arching issues like "You never listen to users" or "You never think about us" all the time.
+- Defensiveness is not trying to take accountability, or trying to make excuses for their actions.
+- Stonewalling is basically shutting down.
+- Contempt is when somebody is purposely trying to insult another person.
+- But stonewalling, this is something I see happening with startups all the time. You get a bunch of customer support calls coming in, and you just think, "I don't need to answer, I don't need to respond." That act of not even getting back to them is one of the worst things you can do, and it's probably some of the biggest causes of churn in the early stages of startups.
+- 
