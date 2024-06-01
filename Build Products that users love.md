@@ -11,4 +11,13 @@
 - Stonewalling is basically shutting down.
 - Contempt is when somebody is purposely trying to insult another person.
 - But stonewalling, this is something I see happening with startups all the time. You get a bunch of customer support calls coming in, and you just think, "I don't need to answer, I don't need to respond." That act of not even getting back to them is one of the worst things you can do, and it's probably some of the biggest causes of churn in the early stages of startups.
+- Direct exposure to users for at least two hours every six weeks.
+- The knowledge gap between current state of users to the required state has to decrease. Either you teach them how to use your app by direct interaction or you decrease the amount of knowledge required to use the application.
+- "Since you've been gone" feature helps.
+- Make everyone say "Thank you!".
+- They say there's only three ways that you achieve market dominance, and depending on how you want to achieve that market dominance, you have to organize your company in a very specific way: best price, best product, and best overall solution.
+- For best price, you focus on logistics, so Wal-Mart and Amazon. If you want to be the best product out there, you focus on R&D, Apple is usually a quintessential example of that. Best overall solution is about being customer intimate. This is the path that you see all luxury brands follow, as well as the hospitality industry.
+- What I love about this path towards market dominance is that the third one is the only one that everyone can do at any stage of their company. It requires almost no money to get started with it. It usually just requires a little bit of humility and some manners.
+- How do you make a decision on product and communicate that with your engineering team when there are lots of different directions to go? make the smallest version of each little idea, no longer than 1 to 2 weeks to build it, so you can try it out to see what works and what doesn't.
+- Can you relay the story about how the King for a Day thing was good at Wufoo? The king got to tell everyone else what to do on product. So everything that was bothering them about Wufoo or any other feature that they wanted to have built, they got engineering, marketing, and advertising resources of everyone in the company to make it happen. Sometimes, the people that work for you are the people who have the strongest opinions about where the product should go. And that's a good way to democratize it a little bit, by rotating it around.
 - 
