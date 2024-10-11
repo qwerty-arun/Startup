@@ -15,3 +15,10 @@
 - Find market fit: The product you launch with will not be the one product that gives you market fit. Optimize for speed over scalability/clean code. Only worry about the next order of magnitude. When you have 100 customers, you need to worry about 1000 and not a million.
 - Necessity is the mother of all inventions: You'll find a way to make it work.
 - Do things that don't scale as long as you possibly can.
+- Often times, great ideas sound silly in the beginning. If people are adopting to your product quickly, then that can be a scalable business.
+## Press
+- Who do you want to reach? Press should have targeted audience and goals such as investors, customers and industries.
+- What is a story? Fundraising, product launches, milestones, stunts, hiring announcements.
+- Think objectively, if you weren't the founder, would you read a story about the company? Before you pitch, ask yourself, would anyone wanna read this.
+- Be original enough.
+- Mechanics of a story: 1: think of one, 2: get introduced to a reporter through your contacts. If your friends have started a startup and have recently been covered in news, ask them to connect to the reporter who wrote about them. 3: Set a date a week in advance. 4: Reach out
