@@ -21,4 +21,6 @@
 - What is a story? Fundraising, product launches, milestones, stunts, hiring announcements.
 - Think objectively, if you weren't the founder, would you read a story about the company? Before you pitch, ask yourself, would anyone wanna read this.
 - Be original enough.
-- Mechanics of a story: 1: think of one, 2: get introduced to a reporter through your contacts. If your friends have started a startup and have recently been covered in news, ask them to connect to the reporter who wrote about them. 3: Set a date a week in advance. 4: Reach out
+- Mechanics of a story: 1: think of one, 2: get introduced to a reporter through your contacts. If your friends have started a startup and have recently been covered in news, ask them to connect to the reporter who wrote about them. 3: Set a date a week in advance. 4: Reach out (via phone or even face to face meeting, because its easy for them to forge). 5: Pitch (bullet points). 6. Follow up and 7. Launch!
+- PR Firms: Firms can only help with contacts and follow up, Firms can't generate stories, firms are expensive.
+- Getting press is work: Make sure it is worth it, getting press doesn't mean you are successful, press is not a scalable user aquisition stratergy.
