@@ -30,3 +30,11 @@
 - The investor company will do some background checks.
 - The are going to have an internal meeting.
 - If they call you for a meeting: they are most likely to invest.
+## Venture Stage
+- Top tier VCs typically invest in only two companies: Companies who have already raised a seed funding or with a founder who they know to be successful or have worked with in the past.
+## Terms, what should founders care about most and how should they negotiate?
+- There seemed to be, and they fluctuate over time, these thresholds particularly for seed stage companies that investors think that above this level is crazy, it doesn’t matter. And there is a rough kind of range that people are willing to pay. You just have to figure out what that is. Just get the money that you need, don't raise any more than you need.
+## MAX dilution?
+- Well, 10-15% is the range beyond which it gets difficult at the table where there isn't enough room.
+- Because if there is a forty percent dilution in an Angel round, I have actually said to the founder, do you realize you have already doomed yourself?
+## Why Airbnb is successful?
