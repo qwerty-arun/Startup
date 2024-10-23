@@ -38,3 +38,8 @@
 - Well, 10-15% is the range beyond which it gets difficult at the table where there isn't enough room.
 - Because if there is a forty percent dilution in an Angel round, I have actually said to the founder, do you realize you have already doomed yourself?
 ## Why Airbnb is successful?
+- Founders are as good as each other. Find someone as good as you or someone better than you to be your co-founder.
+- What type of investors should you be looking for? The ones that have good domain expertise as you are in. They will add more value than money.
+## Opportunity Costs and conflict policy
+- The big VC firms make sure they don't invest in conflicting companies. They only invest in one company in a category.
+- Once they make investments, its going to be harder to make new deals with the same company. Since the investments locks out other competitors, and making an investment is like punching a hole in a card. What if you run out of space. Here, we are talking about time.
